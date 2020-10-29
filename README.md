@@ -7,6 +7,8 @@
 Airbnb awards the title of “Superhost” to some fraction of its dependable hosts. This is designed as an incentive program that is a win-win for both the host, Airbnb, and their customers. The superhost gets more business in the form of higher bookings, the customer gets improved service and Airbnb gets happy satisfied customers.
 # How the superhost are distributed across the city?
 
+![](https://github.com/evgenygrobov/AIRBNB_NYC/blob/main/pictures/host%20distributions%20.png)
+
 #  Description of Data
 The data is sourced from the Inside Airbnb website http://insideairbnb.com/get-the-data.html which hosts publicly available data from the Airbnb site.
 
