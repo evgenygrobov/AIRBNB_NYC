@@ -23,6 +23,10 @@ In this section, I will detail the  analysis to the questions of interest mentio
 * Airbnb users (customers) rate their stay on the basis of location, cleanliness and a host of other parameters. Here we work with the location score data. It would be interesting to see the average location scores for each neighbourhood. The location scores have to be a firm indicator of the appeal of the neighbourhood. Highly rated neighbourhoods will tend to have better connectivity (subway stations), will tend to be closer to the city hotspots (Times Square, Emire State, Wall Street).
 ### Which area are the best?
 ![](https://github.com/evgenygrobov/AIRBNB_NYC/blob/main/pictures/location%20ratings%20.png)
+
+The graph confirms the theory and some more. Manhattan receives the highest location scores for the downtown region, Brooklyn neighbourhoods close to Manhattan tend to have higher location ratings. Looking at the NY subway system in Brooklyn, it is interesting to observe that the highly rated areas correspond with subway line presence. The same is true for Bronx where subway lines do not go.
+
+
 ## How the superhost are distributed across the city?
 
 ![](https://github.com/evgenygrobov/AIRBNB_NYC/blob/main/pictures/host%20distributions%20.png)
