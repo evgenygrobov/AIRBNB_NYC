@@ -1,5 +1,5 @@
 # AIRBNB_NYC_in_procces 
-
+![](https://github.com/evgenygrobov/AIRBNB_NYC/blob/main/pictures/ny_baby.jpeg)
 # PROJECT DESCRIPTION: 
 #  Description of Data
 The data is sourced from the Inside Airbnb website http://insideairbnb.com/get-the-data.html which hosts publicly available data from the Airbnb site.
