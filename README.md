@@ -19,6 +19,7 @@
 ## Analisys
 
 ## Exploratory Data Analysis
+In this section, I will detail the  analysis to the questions of interest mentioned in the introduction and gain preliminary insights through exploratory data analysis and visualization. 
 ## How the superhost are distributed across the city?
 
 ![](https://github.com/evgenygrobov/AIRBNB_NYC/blob/main/pictures/host%20distributions%20.png)
