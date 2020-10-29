@@ -10,13 +10,13 @@
 #  Description of Data
 * The data is sourced from the Inside Airbnb website http://insideairbnb.com/get-the-data.html which hosts publicly available data from the Airbnb site.
 
- *Detailed listings data showing 96 atttributes for each of the listings. Some of the attributes used in the analysis are price (continuous), longitude (continuous), latitude (continuous), listing_type (categorical), is_superhost (categorical), neighbourhood (categorical), ratings (continuous) among others.
+ * Detailed listings data showing 96 atttributes for each of the listings. Some of the attributes used in the analysis are price (continuous), longitude (continuous), latitude (continuous), listing_type (categorical), is_superhost (categorical), neighbourhood (categorical), ratings (continuous) among others.
 
 * A quick glance at the data shows that there are: 45756 unique listing in NYC in total.
 * How many Superhost in NYC? 
 
-# Analisys
+## Analisys
 
-# Exploratory Data Analysis
+### Exploratory Data Analysis
 
 
