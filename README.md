@@ -19,4 +19,5 @@ A quick glance at the data shows that there are:
 # Analisys
 
 # Exploratory Data Analysis
+![](https://github.com/evgenygrobov/AIRBNB_NYC/blob/main/AIRBNB_NYC_test.ipynb)
 
