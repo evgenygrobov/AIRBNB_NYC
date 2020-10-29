@@ -7,9 +7,6 @@
 * Maintained a 90% response rate or higher Maintained 
 * A 1% percent cancellation rate (1 cancellation per 100 reservations) or lower
 * Maintained a 4.8 overall rating
-## How the superhost are distributed across the city?
-
-![](https://github.com/evgenygrobov/AIRBNB_NYC/blob/main/pictures/host%20distributions%20.png)
 
 ## Data
 * The data is sourced from the Inside Airbnb website http://insideairbnb.com/get-the-data.html which hosts publicly available data from the Airbnb site.
@@ -21,6 +18,7 @@
 
 ## Analisys
 
-### Exploratory Data Analysis
+## Exploratory Data Analysis
+## How the superhost are distributed across the city?
 
-
+![](https://github.com/evgenygrobov/AIRBNB_NYC/blob/main/pictures/host%20distributions%20.png)
