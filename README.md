@@ -36,7 +36,8 @@ For clarity sake I filtered out price less then median price across the city. As
 ### How the hosts are represented across the city?
 
 ![](https://github.com/evgenygrobov/AIRBNB_NYC/blob/main/pictures/Superhost%20market%20share.png)
-Not much baged hosts in NYC . 9k host  out of 45K or  almost 20% of the host is Superhost. Manhattan share is 38% and Brooklyn has 44%, rest destributed between Bronx, Queens and SI.
+
+We can see  badged listings presence  in NYC . Almost 25% of the listings rent out by Superhost. Manhattan share is 19.5%, Brooklyn has 26.8%, Queens=34.5%, Bronx=38.9%, Staten Island=59%
 
 ### How the price and ratings are statistically distributed between two groups?
 
