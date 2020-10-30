@@ -27,7 +27,7 @@ In this section, I will detail the  analysis to the questions of interest mentio
 The graph confirms the theory and some more. Manhattan receives the highest location scores for the downtown region, Brooklyn neighbourhoods close to Manhattan tend to have higher location ratings. Looking at the NY subway system in Brooklyn, it is interesting to observe that the highly rated areas correspond with subway line presence. The same is true for Bronx where subway lines do not go.
 
 ### Which area is expensive?
-![](https://github.com/evgenygrobov/AIRBNB_NYC/blob/main/pictures/price%20nyc.png)
+![](https://github.com/evgenygrobov/AIRBNB_NYC/blob/main/pictures/price%20higher%20median.png)
 
 For clarity sake I filtered are less then median price downtown Manhattan is the clear winner when it comes to high rents, as is true for the neighbourhoods of Brooklyn close to Manhattan. The East Village area in Downtown Manhattan is a clear outlier, where both rents and location scores tend to be lower than its surrounding regions.
 ## How the superhost are distributed across the city?
