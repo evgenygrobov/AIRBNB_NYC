@@ -32,7 +32,7 @@ The graph confirms the theory and some more. Manhattan receives the highest loca
 For clarity sake I filtered out price less then median price across the city. As we see downtown Manhattan is the clear winner when it comes to high rents, as is true for the neighbourhoods of Brooklyn close to Manhattan. The East Village area in Downtown Manhattan is a clear outlier, where both rents and location scores tend to be lower than its surrounding regions.
 
 ### What types of listings in NYC?
-
+![](https://github.com/evgenygrobov/AIRBNB_NYC/blob/main/pictures/listings_type.png)
 
 ## How the superhost are distributed across the city?
 
