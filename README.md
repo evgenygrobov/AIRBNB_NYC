@@ -1,4 +1,4 @@
-## Does Superhost bage makes host pocket thicker?
+## Does Superhost badge makes host pocket thicker?
 ### HYPOTHESIS TEST(airbnb_NYC)
 ![](https://github.com/evgenygrobov/AIRBNB_NYC/blob/main/pictures/ny_baby.jpeg)
 ### PROJECT DESCRIPTION: 
@@ -7,7 +7,7 @@ Airbnb awards the title of “Superhost” to some fraction of its dependable ho
 
 Restrictions: New York City, NY– Only permanent residents may rent for less than 30 days and they may only host while they are occupying the property. Additionally, they should not host more than one home at a time.
 I wanted to know what is the real number of SuperHost on an Airbnb NYC and how likely a SUPERHOST bage will leads to a higher listing's price on AIRBNB in NYC.
-### What does it take to get an exclusice medal on your profile picture?
+### What does it take to get an exclusive medal on your profile picture?
 Requirements:
 * Completed at least 10 trips OR completed 3 reservations that total at least 100 nights 
 * Maintained a 90% response rate or higher Maintained 
