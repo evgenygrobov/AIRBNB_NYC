@@ -96,4 +96,4 @@ To test this I extracted two dataframes for each group and converted them to one
 ![](https://github.com/evgenygrobov/AIRBNB_NYC/blob/main/pictures/statistical%20view%20on%20price%20distribition.png)
 
 ### Conclution:
-The test showed us that having a SuperHost bage hanged on profile picture may help to earn bigger money. The differnce is not much tangible.However, Airbnb exclusive status maght make the host pocket thicker, and more likely enable more checkins. We could only imagine what it does cost to earn and the mantain the special status. Despite on restrictions NY we counted almost 50K listings in NY and almist 20% is Superhosts.
+The test showed us that having a SuperHost bage hanged on profile picture may help to earn bigger money. The differnce is not much tangible.However, Airbnb exclusive status might make the host pocket thicker, and more likely enable more checkins. We could only imagine what it does cost to earn and the mantain the special status. Despite on restrictions in NY we have counted almost 50K listings in NY and almost 20% amongst them are Superhosts.
