@@ -26,6 +26,7 @@ In this section, I will detail the  analysis to the questions of interest mentio
 
 The graph confirms the theory and some more. Manhattan receives the highest location scores for the downtown region, Brooklyn neighbourhoods close to Manhattan tend to have higher location ratings. Looking at the NY subway system in Brooklyn, it is interesting to observe that the highly rated areas correspond with subway line presence. The same is true for Bronx where subway lines do not go.
 
+### Which area is expensive?
 
 ## How the superhost are distributed across the city?
 
