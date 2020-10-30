@@ -85,3 +85,7 @@ To test this I extracted two dataframes for each group and converted them to one
 | max              | 999.0               | 999.0                   | 
 
 ## We can see from  table above that we have  difference in listings price between two groups. Lets plot it up!
+
+![](https://github.com/evgenygrobov/AIRBNB_NYC/blob/main/pictures/statistical%20view%20on%20price%20distribition.png)
+
+##Conlution:
