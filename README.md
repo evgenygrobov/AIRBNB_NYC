@@ -1,4 +1,4 @@
-## Is Superhost Super reach on Airbnb?
+## Does Superhost bage makes host pocket thicker?
 ### HYPOTHESIS TEST(airbnb_NYC)
 ![](https://github.com/evgenygrobov/AIRBNB_NYC/blob/main/pictures/ny_baby.jpeg)
 ### PROJECT DESCRIPTION: 
