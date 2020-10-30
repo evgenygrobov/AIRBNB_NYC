@@ -45,6 +45,9 @@ Not much Superhosts. 9000 or  20% of the host is Superhost. Manhattan share is 3
 | Host             | 100                 | 97.0                    | 10.0                 |
 | Super Host       | 100                 | 97.0                    | 10.0                 |
 
+##Plots:
+![](https://github.com/evgenygrobov/AIRBNB_NYC/blob/main/images/price_distr.png)
+
 ## Hypothesys testing!
 A Mann-Whitney U test (sometimes called the Wilcoxon rank-sum test) is used to compare the differences between two samples when the sample distributions are not normally distributed. 
 Since Airnbnb dataset matches all conditions above I  performed U-test.
