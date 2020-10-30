@@ -1,4 +1,5 @@
-## AIRBNB_NYC HYPOTHESIS TEST
+## Is Superhost Super reach on Airbnb?
+### HYPOTHESIS TEST(airbnb_NYC)
 ![](https://github.com/evgenygrobov/AIRBNB_NYC/blob/main/pictures/ny_baby.jpeg)
 ### PROJECT DESCRIPTION: 
 150M+ users on Airbnb, 2M+ people staying in an Airbnb per night, 7M+ listings worldwide, 35B + company evaluations. Impressive, is not it?
@@ -94,5 +95,5 @@ To test this I extracted two dataframes for each group and converted them to one
 
 ![](https://github.com/evgenygrobov/AIRBNB_NYC/blob/main/pictures/statistical%20view%20on%20price%20distribition.png)
 
-### Conlution:
+### Conclution:
 The test showed us that having a SuperHost bage hanged on profile picture may help to earn bigger money. The differnce is not much tangible.However, Airbnb exclusive status maght make the host pocket thicker, and more likely enable more checkins. We could only imagine what it does cost to earn and the mantain the special status. Despite on restrictions NY we counted almost 50K listings in NY and almist 20% is Superhosts.
