@@ -48,7 +48,7 @@ Not much Superhosts. 9000 or  20% of the host is Superhost. Manhattan share is 3
 
 ![](https://github.com/evgenygrobov/AIRBNB_NYC/blob/main/images/price_distr.png)
 
-
+![](https://github.com/evgenygrobov/AIRBNB_NYC/blob/main/images/review-2.png)
 
 
 ## Hypothesys testing!
