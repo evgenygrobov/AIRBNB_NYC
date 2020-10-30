@@ -3,6 +3,7 @@
 ### PROJECT DESCRIPTION: 
 150M+ users on Airbnb, 2M+ people staying in an Airbnb per night, 7M+ listings worldwide, 35B + company evaluations. Impressive, is not it?
 Airbnb awards the title of “Superhost” to some fraction of its dependable hosts. It’s a small group — researchers say only about 7 percent of hosts are Superhosts.
+
 Restrictions: New York City, NY– Only permanent residents may rent for less than 30 days and they may only host while they are occupying the property. Additionally, they should not host more than one home at a time.
 I wanted to know what is the real number of SuperHost on an Airbnb NYC and how likely a SUPERHOST bage will leads to a higher listing's price on AIRBNB in NYC.
 ### What does it take to get an exclusice medal on your profile picture?
