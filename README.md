@@ -36,3 +36,13 @@ For clarity sake I filtered out price less then median price across the city. As
 
 ![](https://github.com/evgenygrobov/AIRBNB_NYC/blob/main/pictures/Superhost%20market%20share.png)
 Not much Superhosts. 9000 or  20% of the host is Superhost. Manhattan share is 38% and Brooklyn has 44%
+
+### How the price and ratings are statistically distributed between two groups?
+
+
+|  Host Bage       | Price               |   Review Rating         | Location Rating      |
+|:-----------------|:-------------------:|:-----------------------:|:--------------------:|
+| Host             | 100                 | 97.0                    | 10.                  |
+| Super Host       | 100                 | 97.0                    | 10.                  |
+
+
