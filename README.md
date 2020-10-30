@@ -54,7 +54,7 @@ We can see  badged listings presence  in NYC . Almost 25% of the listings rent o
 
 ![](https://github.com/evgenygrobov/AIRBNB_NYC/blob/main/images/availability.png)
 
-## Hypothesys testing!
+## Hypothesis testing!
 A Mann-Whitney U test (sometimes called the Wilcoxon rank-sum test) is used to compare the differences between two samples when the sample distributions are not normally distributed. 
 Since Airnbnb dataset matches all conditions above I  performed U-test.
 To test this I extracted two dataframes for each group and converted them to one-dimensional array.
@@ -96,5 +96,5 @@ To test this I extracted two dataframes for each group and converted them to one
 
 ![](https://github.com/evgenygrobov/AIRBNB_NYC/blob/main/pictures/statistical%20view%20on%20price%20distribition.png)
 
-### Conclution:
-The test showed us that having a SuperHost bage hanged on profile picture may help to earn bigger money. The differnce is not much tangible.However, Airbnb exclusive status might make the host pocket thicker, and more likely enable more checkins. We could only imagine what it does cost to earn and the mantain the special status. Despite on restrictions in NY we have counted almost 50K listings in NY and almost 20% amongst them are Superhosts.
+### Conclusion:
+The test showed us that having a SuperHost badge hanged on profile picture may help to earn bigger money. The differnce is not much tangible.However, Airbnb exclusive status might make the host pocket thicker, and more likely enable more checkins. We could only imagine what it does cost to earn and the maintain the special status. Despite on restrictions in NY we have counted almost 50K listings in NY and almost 25% amongst them are Superhosts baged.
