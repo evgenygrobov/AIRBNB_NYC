@@ -57,7 +57,7 @@ We can see  badged listings presence  in NYC . Almost 25% of the listings rent o
 ## Hypothesis testing!
 A Mann-Whitney U test (sometimes called the Wilcoxon rank-sum test) is used to compare the differences between two samples when the sample distributions are not normally distributed. 
 Since Airnbnb dataset matches all conditions above I  performed U-test.
-To test this I extracted two dataframes for each group and converted them to one-dimensional array.
+To test this I extracted two subsets for each group and converted them to one-dimensional array.
 * Null hypothesys is SuperHost listings price distribution = Not Superhost listings price distribution
 * Alternative hypothesys is SuperHost listings price distibution != Not SuperHost listings price distribution 
 * Signnificance level threshold is 5%.
